@@ -1,8 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Archivo+Narrow);
+@import url(font-family: 'Source Sans Pro', sans-serif;);
 
 body {
     max-width: 800px;
-    font-family: "Archivo Narrow", helvitica, sans-serif;
+    font-family: "Source Sans Pro", helvitica, sans-serif;
     margin:10px auto;
     font-size: 18px;
     line-height: 1.4;
